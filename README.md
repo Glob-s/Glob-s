@@ -30,15 +30,15 @@ We are a platform for **multi-disciplinary collaboration** to generate science-b
 
 | Goal | Description |
 |------|-------------|
-| 🔬 **Scientific Research** | Generate scholarship addressing urgent challenges in sustainable international operations and innovation, including climate change, geopolitical crises, and deglobalization. |
+| 🔬 **Scientific Research with Practical Impacts** | Generate scholarship addressing urgent challenges in sustainable international operations and innovation, including climate change, geopolitical crises, and deglobalization. |
 | 🗄️ **Open-Access Resources** | Develop open-access databases to empower researchers, managers, and policymakers to navigate the complexities of institutional and market dynamics. |
-| 🎓 **Interdisciplinary Education** | Commit to immersive educational experiences, integrating students into interdisciplinary research on organizational adaptation and disruption management. |
+| 🎓 **Interdisciplinary Education & Training** | Commit to immersive educational experiences, integrating students into interdisciplinary research on organizational adaptation and disruption management. |
 | 🤝 **Multi-Sector Collaboration** | Create collaborative structures that position scholars at the forefront of their research subjects, enabling real-time insights from key decision-makers. |
 
 ---
 
 ## Current Research Projects
-
+<!-- TODO: link projects to their GitHub repositories -->
 - 🌡️ [**Corporate Risk-Taking and Exposure to Climate Change**](https://globslab.org/climate-risks/)
 - 🌐 [**Geopolitics and the Decoupling of International Innovation Networks**](https://globslab.org/geographical-diversification-and-firm-resilience-to-disasters/)
 - 💰 [**Climate-Induced Racial Pay Gaps**](https://globslab.org/current-projects/climate-induced-racial-pay-gaps/)
@@ -168,7 +168,7 @@ We develop and maintain several open-access databases for researchers, business 
       <img src="https://i0.wp.com/globslab.org/wp-content/uploads/2025/09/IMG_5383-edited.jpg?resize=160%2C160&ssl=1" width="120" height="120" style="border-radius:50%; object-fit:cover;" alt="Khoa Cao"/><br/>
       <b>Khoa Cao</b><br/>
       <sub>Computer Science · Economics</sub><br/>
-      <sub><code>Python</code> <code>STATA</code></sub>
+      <sub><code>Python</code> <code>STATA</code> <code>SQL</code></sub>
     </td>
     <td align="center" width="25%">
       <img src="https://i0.wp.com/globslab.org/wp-content/uploads/2025/10/PHOTO-2024-03-17-00-23-48.jpg?resize=160%2C160&ssl=1" width="120" height="120" style="border-radius:50%; object-fit:cover;" alt="Srijit Banerjee"/><br/>
@@ -201,12 +201,6 @@ We develop and maintain several open-access databases for researchers, business 
   &nbsp;&nbsp;&nbsp;
   <img src="https://globslab.org/wp-content/uploads/2024/02/Screenshot_2025-09-18_at_16.16.10-removebg-preview.png" alt="Boston University Questrom" height="50"/>
 </p>
-
----
-
-## Contact
-
-📧 Visit [globslab.org/contact-us](https://globslab.org/contact-us/) to get in touch with our team.
 
 ---
 
