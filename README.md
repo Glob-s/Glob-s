@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">GLOB~S Research Lab</h1>
-<h3 align="center">Global Scope Lab — Evidence-Based Business Strategies for Global Challenges</h3>
+<h3 align="center">Evidence-Based Business Strategies for Global Challenges</h3>
 
 <p align="center">
   <a href="https://globslab.org">🌐 Website</a> 
@@ -20,7 +20,7 @@
 
 ## About
 
-**GLOB~S** (Global Scope Lab) harnesses data science to unravel and tackle the complexity of managing geographically-dispersed organizations and foster sustainable innovation, firm profitability, and social welfare globally.
+**GLOB~S** harnesses data science to unravel and tackle the complexity of managing geographically-dispersed organizations and foster sustainable innovation, firm profitability, and social welfare globally.
 
 We are a platform for **multi-disciplinary collaboration** to generate science-based evidence on the drivers and consequences of **international competition, innovation, and nonmarket action**, and to translate such evidence into **performance- and social-welfare enhancing solutions**.
 
